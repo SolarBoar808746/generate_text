@@ -26,7 +26,7 @@ net.eval()
 #===========================================#
 #              Streamlit Code               #
 #===========================================#
-desc = "Uses an LSTM neural network trained on *The Lord of the Rings*. Check out the code [here](https://github.com/christian-doucette/tolkein_text)!"
+desc = "Uses an LSTM neural network trained on *The Lord of the Rings*."
 
 st.title('Lord of the Rings Text Generator')
 st.write(desc)
